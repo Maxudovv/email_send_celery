@@ -1,1 +1,4 @@
-# celery-redis-docker
+# Django - Celery - Redis - Docker
+
+### Sample email sent program.
+
