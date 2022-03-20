@@ -1,4 +1,4 @@
 # Django - Celery - Redis - Docker
 
-### Sample email sent program.
+### Sample email send program.
 
